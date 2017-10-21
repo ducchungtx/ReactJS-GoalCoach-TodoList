@@ -1,12 +1,12 @@
 import * as firebase from 'firebase';
 
 const config = {
-    apiKey: "AIzaSyDdX1hGZDv8xQGZPj8-wV9TxvuxL59qhYQ",
-    authDomain: "goalcoach-95dde.firebaseapp.com",
-    databaseURL: "https://goalcoach-95dde.firebaseio.com",
-    projectId: "goalcoach-95dde",
-    storageBucket: "goalcoach-95dde.appspot.com",
-    messagingSenderId: "770147825442"
+    apiKey: "AIzaSyDdX1hGZDv8xQGZPj8-xxx",
+    authDomain: "goalcoach-xxx.firebaseapp.com",
+    databaseURL: "https://goalcoach-xxx.firebaseio.com",
+    projectId: "goalcoach-xxx",
+    storageBucket: "goalcoach-xxx.appspot.com",
+    messagingSenderId: "770147825xxx"
 };
 
 export const firebaseApp = firebase.initializeApp(config);
